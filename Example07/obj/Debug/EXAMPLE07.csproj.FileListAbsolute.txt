@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Lecture01-Example-20170807T111623Z-001\Lecture01-Example\EXAMPLE07\bin\Debug\EXAMPLE07.exe.config
+C:\Users\USER\Desktop\Lecture01-Example-20170807T111623Z-001\Lecture01-Example\EXAMPLE07\bin\Debug\EXAMPLE07.exe
+C:\Users\USER\Desktop\Lecture01-Example-20170807T111623Z-001\Lecture01-Example\EXAMPLE07\bin\Debug\EXAMPLE07.pdb
+C:\Users\USER\Desktop\Lecture01-Example-20170807T111623Z-001\Lecture01-Example\EXAMPLE07\obj\Debug\EXAMPLE07.exe
+C:\Users\USER\Desktop\Lecture01-Example-20170807T111623Z-001\Lecture01-Example\EXAMPLE07\obj\Debug\EXAMPLE07.pdb
+C:\Users\USER\Desktop\HOMEWORK1\EXAMPLE07\bin\Debug\EXAMPLE07.exe.config
+C:\Users\USER\Desktop\HOMEWORK1\EXAMPLE07\bin\Debug\EXAMPLE07.exe
+C:\Users\USER\Desktop\HOMEWORK1\EXAMPLE07\bin\Debug\EXAMPLE07.pdb
+C:\Users\USER\Desktop\HOMEWORK1\EXAMPLE07\obj\Debug\EXAMPLE07.exe
+C:\Users\USER\Desktop\HOMEWORK1\EXAMPLE07\obj\Debug\EXAMPLE07.pdb
